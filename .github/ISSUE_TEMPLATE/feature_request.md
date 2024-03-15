@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea to implement to future updates
+about: Suggest an idea to implement to future updates.
 title: '[REQUEST]'
 labels: 'feature-request'
 assignees: 'Haggets'
