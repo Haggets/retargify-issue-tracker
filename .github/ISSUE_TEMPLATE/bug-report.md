@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Bug report to help improve Rigify Retarget.
+about: Bug report to help improve Retargify.
 title: "[BUG]"
 labels: bug
 assignees: Haggets
@@ -10,11 +10,14 @@ assignees: Haggets
 **Blender Version**
 
 
-**Rigify Retarget Version**
+**Retargify Version**
 
 
 **Error Log**
 Can be a screenshot or raw text.
+
+**Blend File**
+Keep only the problematic armature in the blend file for the smallest file size.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
