@@ -1,26 +1,30 @@
 ---
 name: Bug Report
 about: Bug report to help improve Retargify.
-title: '[BUG]'
-labels: 'bug'
-assignees: 'Haggets'
+title: "[BUG]"
+labels: bug
+assignees: Haggets
 
 ---
 
-**Blender Version**
+**Blender version**
+Which Blender version are you using?
 
+**Retargify version**
+Which Retargify version are you on?
 
-**Retargify Version**
+**Error log**
+Please provide a screenshot.
 
+**Blend file**
+Upload only the problematic armature in the blend file for the smallest file size.
 
-**Error Log**
-Can be a screenshot or raw text.
-
-**Blend File**
-Keep only the problematic armature in the blend file for the smallest file size.
-
-**Describe the bug**
+**Bugged behavior**
 A clear and concise description of what the bug is.
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -28,10 +32,6 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
 
 **Additional context**
 Add any other context about the problem here.
