@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Bug report to help improve Retargify.
-title: "[BUG]"
+title: ""
 labels: bug
 assignees: Haggets
 
